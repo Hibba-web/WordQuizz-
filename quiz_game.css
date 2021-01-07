@@ -1,0 +1,14 @@
+#bodyBG{
+    background-image: url("green.jpg");
+    background-position: fixed;
+    background-size: 100%;
+}
+
+#output{
+    background-color: white;
+    border-radius: 10;
+    border-top: 10px solid skyblue;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
